@@ -2,5 +2,3 @@
 
 Clean and professional, this dashboard offers a quick, powerful overview of sales performance.  
 Just click to download it and start exploring the data on your computer.
-
-[**Download the Excel File**](./Sales_Analysis_Dashboard.xlsx)
